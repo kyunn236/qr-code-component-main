@@ -28,7 +28,7 @@ body {
    border-radius: 15px;
    background-color: var(--clr-white);
    padding: 0.6em 0.6em;
-   margin: 25% auto;
+   margin: 10rem auto;
    box-shadow: 0 10px 10px 0 var(--clr-gray-blue);
 }
 
@@ -55,5 +55,5 @@ p.main-text {
 p.sub-text {
    font-weight: 400;
    font-size: 12px;
-   color: var(--clr-blue-dark);
+   color: var(--clr-gray-blue);
 }
